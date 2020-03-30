@@ -1,0 +1,26 @@
+﻿生成启动时间为 2020/3/27 21:31:44。
+     1>项目“D:\My project1\MFC8-3\MFC8-3\MFC8-3.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\vs\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yc"stdafx.h" /Fp"Debug\MFC8-3.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         D:\vs\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"Debug\MFC8-3.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt MainFrm.cpp "MFC8-3.cpp" "MFC8-3Doc.cpp" "MFC8-3View.cpp"
+         MFC8-3View.cpp
+         MFC8-3Doc.cpp
+         MFC8-3.cpp
+         MainFrm.cpp
+         正在生成代码...
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0804" /IDebug\ /nologo /fo"Debug\MFC8-3.res" MFC8-3.rc 
+       Link:
+         D:\vs\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\My project1\MFC8-3\Debug\MFC8-3.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:D:\vs\VC\Include\Manifest\dpiaware.manifest /Debug /PDB:"D:\My project1\MFC8-3\Debug\MFC8-3.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\My project1\MFC8-3\Debug\MFC8-3.lib" /MACHINE:X86 "Debug\MFC8-3.res"
+         Debug\MainFrm.obj
+         "Debug\MFC8-3.obj"
+         "Debug\MFC8-3Doc.obj"
+         "Debug\MFC8-3View.obj"
+         Debug\stdafx.obj
+         MFC8-3.vcxproj -> D:\My project1\MFC8-3\Debug\MFC8-3.exe
+     1>已完成生成项目“D:\My project1\MFC8-3\MFC8-3\MFC8-3.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+
+已用时间 00:00:06.97
